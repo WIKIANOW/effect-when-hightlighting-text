@@ -262,7 +262,7 @@
             search: {
                 isActive: !0,
                   url: "/p/ket-qua-tim-kiem.html?q=TEXT_SELECTION", //Edit the search page navigation link [note the code TEXT_SELECTION]
-                  icon: '<span style="color:#fff" class="searchB" title="Tìm kiếm" />'
+                  icon: '<span title="Tìm kiếm"><svg class="line" viewBox="0 0 24 24" style="stroke: #fff;><g transform="translate(2.000000, 2.000000)"><circle class="fill" cx="9.76659044" cy="9.76659044" r="8.9885584"></circle><line x1="16.0183067" x2="19.5423342" y1="16.4851259" y2="20.0000001"></line></g></svg></span>'
             },
             facebook: {
                 isActive: !0,
